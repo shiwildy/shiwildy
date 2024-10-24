@@ -14,8 +14,8 @@ Feel free to explore my repositories and projects. Contributions and feedback ar
 [<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/linkedin.png" align="center" width="30" height="30"/>](https://www.linkedin.com/in/shiwildy)
 [@shiwildy](https://www.linkedin.com/in/shiwildy)
 
-[<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/wechat.png" align="center" width="30" height="30"/>]()
-[shiwildy]()
+[<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/wechat.png" align="center" width="30" height="30"/>](#)
+[shiwildy](#)
 
 [<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/email.png" align="center" width="30" height="30"/>](mailto:hai@shiwildy.com)
 [hai@shiwildy.com](mailto:hai@shiwildy.com)
