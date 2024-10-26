@@ -20,4 +20,7 @@ Feel free to explore my repositories and projects. Contributions and feedback ar
 [<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/email.png" align="center" width="30" height="30"/>](mailto:hai@shiwildy.com)
 [hai@shiwildy.com](mailto:hai@shiwildy.com)
 
+[<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/line.png" align="center" width="30" height="30"/>](https://line.me/ti/p/NoBTpJLMWM)
+[shiwildy](https://line.me/ti/p/NoBTpJLMWM)
+
 Let's connect and collaborate on exciting projects! 😊
