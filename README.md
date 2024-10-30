@@ -23,4 +23,7 @@ Feel free to explore my repositories and projects. Contributions and feedback ar
 [<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/line.png" align="center" width="30" height="30"/>](https://line.me/ti/p/NoBTpJLMWM)
 [shiwildy](https://line.me/ti/p/NoBTpJLMWM)
 
+[<img src="https://raw.githubusercontent.com/shiwildy/shiwildy/refs/heads/main/telegram.png" align="center" width="30" height="30"/>](https://t.me/shiwildy)
+[shiwildy](https://t.me/shiwildy)
+
 Let's connect and collaborate on exciting projects! 😊
