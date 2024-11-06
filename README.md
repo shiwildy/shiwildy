@@ -1,4 +1,3 @@
-<!--
 # Hi there! 👋
 
 I'm Wildy, passionate about backend development and sysadmin work. With a keen interest in optimizing server performance and ensuring seamless operations, I specialize in Linux server management.
@@ -8,10 +7,10 @@ I'm Wildy, passionate about backend development and sysadmin work. With a keen i
 
 
 Let's connect and collaborate on exciting projects! 😊
--->
 
 
 
+<!---
 # 💫 About Me:
 I'm Wildy, passionate about backend development and sysadmin work. With a keen interest in optimizing server performance and ensuring seamless operations, I specialize in Linux server management.
 
@@ -35,4 +34,4 @@ I'm Wildy, passionate about backend development and sysadmin work. With a keen i
 ---
 [![](https://visitcount.itsvg.in/api?id=shiwildy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--->
